@@ -1,14 +1,13 @@
-#!/bin/bash
 #include <stdio.h>
 
  /**
-  * main - prints the quote
+  * main - Entry point
   *
-  * Return: zero if done the right way, otherwise non zero
+  * Return: Always 0 (Success)
   *
   */
 int main(void)
 {
 	puts("\"programming is like building a multilingual puzzle");
-		return (0);
+	return (0);
 }
