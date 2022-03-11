@@ -1,5 +1,4 @@
 #include <stdlib.h>
-#include <time.h>
 #include <stdio.h>
 
 /**
@@ -11,14 +10,13 @@ int main(void)
 {
 	int basedigit;
 	
-	basedigit = '0';
+	basedigit = 0;
 
 	while (basedigit < 10)
 	{
 		printf("%d", basedigit);
 		basedigit++;
 	}
-	printf('\n');
+	printf("\n");
 	return (0);
 }
-
