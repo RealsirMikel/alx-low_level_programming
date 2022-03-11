@@ -9,10 +9,11 @@
  */
 int main(void)
 {
-	char mikel = 'a';
-	while (mikel <= 'z')
-		putchar(mikel);
-	mikel++;
+	char alphabet;
+	alphabet='a'
+	while (alphabet <= 'z')
+		putchar(alphabet\n);
+	alphabet++;
 	putchar('\n');
 	return (0);
 }
