@@ -16,7 +16,7 @@ int main(void)
 	{
 		putchar(nomba % 10 + '0');
 	}
-	for (alphab = 'a'; alphab <= 'f'; alphab++);
+	for (alphab = 'a'; alphab <= 'f'; alphab++)
 	{
 		putchar(alphab);
 	}
