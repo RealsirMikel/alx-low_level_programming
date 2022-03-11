@@ -10,6 +10,7 @@ int main(void)
 {
 	int basedigit;
 	basedigit = 0;
+
 	while (basedigit < 10)
 	{
 		printf("%d", basedigit);
