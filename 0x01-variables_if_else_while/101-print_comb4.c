@@ -16,7 +16,7 @@ int main(void)
 		{
 			for (last = 2; last <= 9; last++)
 			{
-				if (first < mid <last)
+				if (first < mid && mid <last)
 				{
 					putchar(first % 10 + '0');
 					putchar(mid % 10 + '0');
