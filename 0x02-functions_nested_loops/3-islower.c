@@ -4,7 +4,7 @@
 
 /**
  * _islower - chcks for lower case character
- *
+ * @c: parameter
  * Return: Always 0 (Success)
  */
 int _islower(int c)
