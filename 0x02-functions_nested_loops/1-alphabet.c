@@ -3,7 +3,7 @@
 #include "main.h"
 
 /**
- * main - print alphabet in small size
+ * print_alphabet - print alphabet in small size
  *
  * Return: Always 0 (Success)
  */
