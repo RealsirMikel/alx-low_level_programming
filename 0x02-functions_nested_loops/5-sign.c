@@ -2,8 +2,8 @@
 #include <stdio.h>
 #include "main.h"
 /**
- * print_sign - a function that print signs
- * @c: expression
+ * print_sign - print signs
+ * @n: expression
  * Return: Always 0 Success
  */
 
