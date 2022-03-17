@@ -6,7 +6,6 @@
  * @b: Notation
  * Return: value of the multiplication
  */
-
 int mul(int a, int b)
 {
 	int c = a * b;
