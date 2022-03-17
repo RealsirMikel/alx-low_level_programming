@@ -16,6 +16,6 @@ void print_most_numbers(void)
 		{
 			_putchar(z % 10 + '0');
 		}
-		_putchar('\n');
 	}
+	_putchar('\n');
 }
